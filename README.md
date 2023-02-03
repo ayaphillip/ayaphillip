@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Phillip A. Ayala
-- 👀 I’m interested in front-end development and web3.
-- 🌱 I’m currently learning HTML, CSS, and Git.
-- 💞️ I’m looking to collaborate on open sourced projects once I feel confident in my skills.
-- 📫 My email is phil.a.ayala@gmail.com
+Hello! I am Phillip Ayala and I am currently a student at Cal Poly Pomona majoring in Computer Information Systems with an emphasis in app development. 
+I am pursuing a career as a full-stack developer and hope you enjoy the content I have.
+Feel free to contact me at phillipaya2@gmail.com.
 
 <!---
 ayaphillip/ayaphillip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
